@@ -1,4 +1,4 @@
-# Connect to VCenter and ESXi hosts using Credentails Stored in OCI Vault Secret. 
+# Connect to the VMware vCenter and ESXi hosts using Credentails Stored in OCI Vault Secret. 
 
 ## Description
 This script connects to the VC and ESXi hosts securely using credentails stored in OCI Vault Service.
@@ -48,6 +48,7 @@ This script relies on the following Python libraries:
 
 1. pyVmomi
 2. oci
+3. Credentials stored ONLY in "<username,password>" format in the secret vault
 
 ## Acknowledgments
 This script was inspired by and adapted from https://www.ateam-oracle.com/post/using-the-oci-instance-principals-and-vault-with-python-to-retrieve-a-secret. Special thanks to the authors for their contributions to the community.
