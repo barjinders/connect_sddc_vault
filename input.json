@@ -1,0 +1,18 @@
+{
+    "vc": {
+        "vc_host": "vcenter-sddc-jp.sddc.nrt.oci.oraclecloud.com",
+        "certificate_file_path": null,
+        "secret_id": "ocid1.vaultsecret.oc1.ap-tokyo-1.amaaaaaap77apcqayumrh6e4rutxt66afgsb77yl2xjjyzhaj2nhjufzsela"
+    },
+    "esxi_hosts": [
+        {
+            "esxi_host": "10.1.32.12",
+            "certificate_file_path": null,
+            "secret_id": "ocid1.vaultsecret.oc1.ap-tokyo-1.amaaaaaap77apcqavcqv7ryjxn7k3nor4mlp473vq5sqxvw5j3bbgi5kcdea"
+        }
+    ],
+    "oci": {
+        "oci_config_file": "d:\\sddc\\config.txt",
+        "oci_config_profile": "DEFAULT"
+    }
+}
