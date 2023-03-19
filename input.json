@@ -1,14 +1,14 @@
 {
     "vc": {
-        "vc_host": "vcenter-sddc-jp.sddc.nrt.oci.oraclecloud.com",
+        "vc_host": "vcenter.fluffyclouds.com",
         "certificate_file_path": null,
-        "secret_id": "ocid1.vaultsecret.oc1.ap-tokyo-1.amaaaaaap77apcqayumrh6e4rutxt66afgsb77yl2xjjyzhaj2nhjufzsela"
+        "secret_id": "ocid1.vaultsecret.oc1.ap-tokyo-1.XXXXXXXXXX"
     },
     "esxi_hosts": [
         {
-            "esxi_host": "10.1.32.12",
+            "esxi_host": "esx1.fluffyclouds.com",
             "certificate_file_path": null,
-            "secret_id": "ocid1.vaultsecret.oc1.ap-tokyo-1.amaaaaaap77apcqavcqv7ryjxn7k3nor4mlp473vq5sqxvw5j3bbgi5kcdea"
+            "secret_id": "ocid1.vaultsecret.oc1.ap-tokyo-1.XXXXXXXXX"
         }
     ],
     "oci": {
