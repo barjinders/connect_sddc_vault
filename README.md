@@ -11,6 +11,9 @@ To ensure the security of the secret credentials, the script leverage the encryp
 
 Overall, this script provides a secure and efficient way to manage and use sensitive information required for connecting to a VC, while leveraging the powerful capabilities of the OCI Vault service.
 
+## Blog
+https://fluffyclouds.blog/2023/03/20/securely-connect-to-vmware-sddc-using-oci-vault-service-with-python/
+
 ## Usage 
 1. Update the input.json file provided in the repo with the following details 
 
